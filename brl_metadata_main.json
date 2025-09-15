@@ -1,9 +1,6 @@
 {
-    "name": "BRL",
-    "symbol": "BRL",
-    "uri": "https://raw.githubusercontent.com/Jocker484/brl-token/main/brl_metadata_details.json",
-    "sellerFeeBasisPoints": 0,
-    "creators": null,
-    "collection": null,
-    "uses": null
+  "name": "BRL",
+  "symbol": "BRL",
+  "description": "Token brasileiro, apoiado por Solana",
+  "image": "https://i.postimg.cc/yYfQbNS7/TOKEN.png"
 }
