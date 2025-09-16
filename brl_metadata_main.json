@@ -10,17 +10,12 @@
   ],
   "properties": {
     "files": [
-      {
-        "uri": "https://i.postimg.cc/yYfQbNS7/TOKEN.png",
-        "type": "image/png"
-      }
+      { "uri": "https://i.postimg.cc/yYfQbNS7/TOKEN.png", "type": "image/png" }
     ],
     "category": "image",
     "creators": [
-      {
-        "address": "AuUzj6Vosqo9s34kkwKtyRszNXWFr9JwsmsSSCyQuRv4",
-        "share": 100
-      }
+      { "address": "AuUzj6Vosqo9s34kkwKtyRszNXWFr9JwsmsSSCyQuRv4", "share": 100 }
     ]
   }
 }
+
