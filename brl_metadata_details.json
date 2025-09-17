@@ -1,6 +1,20 @@
 {
-    "name": "BRL",
-    "symbol": "BRL",
-    "description": "Token brasileiro para uso real no mercado",
-    "image": "https://i.postimg.cc/yYfQbNS7/TOKEN.png"
+  "name": "BRL",
+  "symbol": "BRL",
+  "description": "Token brasileiro, apoiado pela blockchain Solana.",
+  "seller_fee_basis_points": 0,
+  "image": "https://i.postimg.cc/yYfQbNS7/TOKEN.png",
+  "attributes": [
+    { "trait_type": "Origin", "value": "Brasil" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://i.postimg.cc/yYfQbNS7/TOKEN.png", "type": "image/png" }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "AuUzj6Vosqo9s34kkwKtyRszNXWFr9JwsmsSSCyQuRv4", "share": 100 }
+    ]
+  }
 }
