@@ -6,7 +6,12 @@
   "image": "https://raw.githubusercontent.com/brsp11/brl-token/main/logo.png",
   "attributes": [],
   "properties": {
-    "files": [{"uri": "https://raw.githubusercontent.com/brsp11/brl-token/main/logo.png", "type": "image/png"}],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brsp11/brl-token/main/logo.png",
+        "type": "image/png"
+      }
+    ],
     "category": "token"
   }
 }
