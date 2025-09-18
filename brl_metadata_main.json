@@ -1,21 +1,12 @@
 {
-  "name": "BRL",
-  "symbol": "BRL",
-  "description": "Token brasileiro, apoiado pela blockchain Solana.",
+  "name": "BRSP",
+  "symbol": "BRSP",
+  "description": "Token para compra e venda em São Paulo",
   "seller_fee_basis_points": 0,
-  "image": "https://i.postimg.cc/yYfQbNS7/TOKEN.png",
-  "attributes": [
-    { "trait_type": "Origin", "value": "Brasil" },
-    { "trait_type": "Blockchain", "value": "Solana" }
-  ],
+  "image": "https://raw.githubusercontent.com/brsp11/brl-token/main/logo.png",
+  "attributes": [],
   "properties": {
-    "files": [
-      { "uri": "https://i.postimg.cc/yYfQbNS7/TOKEN.png", "type": "image/png" }
-    ],
-    "category": "image",
-    "creators": [
-      { "address": "AuUzj6Vosqo9s34kkwKtyRszNXWFr9JwsmsSSCyQuRv4", "share": 100 }
-    ]
+    "files": [{"uri": "https://raw.githubusercontent.com/brsp11/brl-token/main/logo.png", "type": "image/png"}],
+    "category": "token"
   }
 }
-
